@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#272F32"
+  color_dark: "#272F32"
+  image: assets/casco.png
+  image_dark: assets/casco.png
+
+  android_12:
+   color: "#272F32"
+   color_dark: "#272F32"
+   image: assets/casco.png
+   image_dark: assets/casco.png
+
+  web: false

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836713405203",
+    "firebase_url": "https://bliss-db-bd5b3-default-rtdb.firebaseio.com",
+    "project_id": "bliss-db-bd5b3",
+    "storage_bucket": "bliss-db-bd5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836713405203:android:a210c6783c425df60558e6",
+        "android_client_info": {
+          "package_name": "com.bliss.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836713405203-jbluj9s2vel7sg0scg3l0k8kaju79fq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bliss.edu",
+            "certificate_hash": "c56d7a498f0b447175abedcd369e26952b0f2699"
+          }
+        },
+        {
+          "client_id": "836713405203-lqqv6qqugppeal7hj3dnh6av5u7jo295.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfiUWUYzCFa6hmKKRX6YEE_jPTpfqQGhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836713405203-lqqv6qqugppeal7hj3dnh6av5u7jo295.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836713405203-5arpco8fc444m79fhjo0i6c90pbb44ou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bliss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
